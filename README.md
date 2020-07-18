@@ -4,3 +4,5 @@ This repositary is for all machine learning codes that I am learning from freeco
 This starts from Linear Regressing and will go upto Neural Networks.
 I am using Anaconda3 and Spyder IDE with Pythoon3.7.
 
+Linear Regressing is done with titanic dataset.
+
