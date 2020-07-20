@@ -12,4 +12,6 @@ Classification uses DNN classifier from tensoflow. The dataset is iris species d
 https://storage.googleapis.com/download.tensorflow.org/data/iris_training.csv
 https://storage.googleapis.com/download.tensorflow.org/data/iris_test.csv
 
-
+Hidden Markov Model nor uses a dataset neither do you train a model. It predicts using probability distributions. 
+To use tensorflow_probability module you might have to download it through:
+$ pip install tensorflow_probability==0.8.0rc0 --user --upgrade
