@@ -15,3 +15,8 @@ https://storage.googleapis.com/download.tensorflow.org/data/iris_test.csv
 Hidden Markov Model nor uses a dataset neither do you train a model. It predicts using probability distributions. 
 To use tensorflow_probability module you might have to download it through:
 $ pip install tensorflow_probability==0.8.0rc0 --user --upgrade
+
+Convolutional Neural Networks:
+
+First modedl in the file CNN_CIFAR10 is a model that predicts Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck.
+The dataset is 60000 image large with 6000 per catagory. This dataset is built-in Keras dataset known as CIFAR-10.
