@@ -36,7 +36,7 @@ The file **RNN_review_classifier** uses a built-in keras dataset, i.e. IMDB data
 
 **RNN_play_generator:** is a code that uses RNN model to generate play on the basis of a play given as a data. In this example we have takes the popular play, Romeo and Juliet. NOte the following code allows you to upload any script from your machine to be the data of our model:
 
-'''
-    from google.colab import files
-    path_to_file = list(files.upload().keys())[0]
-'''
+
+'<addr>' from google.colab import files
+'<addr>'path_to_file = list(files.upload().keys())[0]
+
