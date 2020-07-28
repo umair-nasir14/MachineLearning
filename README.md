@@ -38,5 +38,6 @@ The file **RNN_review_classifier** uses a built-in keras dataset, i.e. IMDB data
 
 
 '<addr>' from google.colab import files
+ 
 '<addr>'path_to_file = list(files.upload().keys())[0]
 
