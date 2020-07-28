@@ -12,11 +12,15 @@ Note: I've taken these codes mostly from tensorflow.org and edited it. It is for
 ## Core Machine Learning Algorithms: 
 
 **Linear Regressing** is done with titanic dataset.
+
 https://storage.googleapis.com/tf-datasets/titanic/train.csv
+
 https://storage.googleapis.com/tf-datasets/titanic/eval.csv
 
 **Classification** uses **DNN classifier** from tensoflow. The dataset is iris species dataset
+
 https://storage.googleapis.com/download.tensorflow.org/data/iris_training.csv
+
 https://storage.googleapis.com/download.tensorflow.org/data/iris_test.csv
 
 **Hidden Markov Model** nor uses a dataset neither do you train a model. It predicts using probability distributions. 
