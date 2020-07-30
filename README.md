@@ -34,6 +34,10 @@ To use tensorflow_probability module you might have to download it through:
 The model in the file **CNN_CIFAR10** is a model that predicts Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck.
 The dataset is 60000 image large with 6000 per catagory. This dataset is built-in Keras dataset known as CIFAR-10.
 
+## Reinforcement Learning:
+
+The file Q_learning shows the basic technique to implement Reinforcement Learning using OpenAI's gym module. It uses the frozen lake game example.
+
 ## Natural Language Processing and Recurring Neural Networks:
 
 The file **RNN_review_classifier** uses a built-in keras dataset, i.e. IMDB dataset, to undertand how sentiment analysis works. Here we are classifying a positive and a negative review.
