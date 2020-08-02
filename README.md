@@ -28,6 +28,14 @@ To use tensorflow_probability module you might have to download it through:
 
 
 '<addr>' $ pip install tensorflow_probability==0.8.0rc0 --user --upgrade
+ 
+## K Nearest Neighbours:
+
+The file **Book_Recommender_System_Using_KNN** 'is the codde for a recommender engine. In this example we recommend 5 books from the Book_Crossing dataset:
+
+http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+This model uses ID based recommendations.
 
 ## Convolutional Neural Networks:
 
