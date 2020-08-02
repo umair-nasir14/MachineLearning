@@ -46,7 +46,7 @@ The file **CNN_cats&dogs** is another example of CNN model. This one identifies 
 
 ## Reinforcement Learning:
 
-The file Q_learning shows the basic technique to implement Reinforcement Learning using OpenAI's gym module. It uses the frozen lake game example.
+The file **Q_learning** shows the basic technique to implement Reinforcement Learning using OpenAI's gym module. It uses the frozen lake game example.
 
 ## Natural Language Processing and Recurring Neural Networks:
 
