@@ -42,6 +42,8 @@ This model uses ID based recommendations.
 The model in the file **CNN_CIFAR10** is a model that predicts Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck.
 The dataset is 60000 image large with 6000 per catagory. This dataset is built-in Keras dataset known as CIFAR-10.
 
+The file **CNN_cats&dogs** is another example of CNN model. This one identifies cats and dogs from tensorflow_datasets.
+
 ## Reinforcement Learning:
 
 The file Q_learning shows the basic technique to implement Reinforcement Learning using OpenAI's gym module. It uses the frozen lake game example.
